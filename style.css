@@ -1,0 +1,34 @@
+body
+{
+	margin:0 5%;
+	padding:5px;
+	border-right:outset #ffffff 2px;
+}
+header
+{
+	color:white;
+	background-color:black;
+}
+header>h1
+{
+	letter-spacing: 5px;
+		padding: 10px;
+
+}
+header>h2
+{
+		padding: 10px;
+
+}
+h3,h4
+{
+	color:red;
+	
+}
+div
+{
+	padding:2px;
+	border: outset #ffffff 3px;
+	border-collapse: collapse;
+	border-opacity:0.5;
+}
